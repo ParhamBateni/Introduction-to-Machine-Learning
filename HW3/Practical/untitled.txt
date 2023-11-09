@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/63629112/neural-network-always-predicts-the-same-class-in-each-epoch
